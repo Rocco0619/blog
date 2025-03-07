@@ -39,7 +39,7 @@ Here is [documents](https://manual.pigjian.com/)
 - Roles & Permissions
 - and more...
 
-[PJ Blog](https://github.com/jcc/blog) Laravel 7.*
+[PJ Blog](https://github.com/Rocco0619/blog) Laravel 7.*
 
 ## Server Requirements
 
@@ -62,13 +62,13 @@ Here is [documents](https://manual.pigjian.com/)
 ### 1. Clone the source code or create new project.
 
 ```shell
-git clone https://github.com/jcc/blog.git
+git clone https://github.com/Rocco0619/blog.git
 ```
 
 OR
 
 ```shell
-composer create-project jcc/blog
+composer create-project Rocco0619/blog
 ```
 
 ### 2. Set the basic config
@@ -115,7 +115,7 @@ php artisan blog:install
 
 ## Contributors
 
-- [Jiajian Chan](http://github.com/jcc)
+- [Jiajian Chan](http://github.com/Rocco0619)
 
 ## Thanks
 
