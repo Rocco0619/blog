@@ -45,12 +45,6 @@ Here is [documents](https://manual.pigjian.com/)
 - Tokenizer PHP Extension
 - XML PHP Extension
 
-## Preview
-
-![New Blog](https://cdn.pigjian.com/cover/2018/09/07/d2T4cAjTagf5L1rXH1FjLsFkJVffsPIGPkHEl2A5.jpg)
-
-![New Blog](https://cdn.pigjian.com/cover/2018/09/07/4b7ExtB6NHZVh8n5KnW2673Ej6gwtLm1SUAubtpa.jpg)
-
 ## Install
 
 ### 1. Clone the source code or create new project.
